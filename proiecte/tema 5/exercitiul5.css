@@ -1,0 +1,58 @@
+@media (min-width: 0px) {
+    .forma1{
+        display: flex;
+    }
+}
+
+
+@media (min-width: 768px) {
+.forma2{
+    display: flex;
+    }
+.forma3{
+    display: flex;
+}
+.forma4{
+    display: flex;
+}
+}
+.forma1 div, .forma2 div, .forma3 div, .forma4 div{
+    border: 5px white solid;
+    padding: 10px;
+}
+.caseta1{
+    flex: 30%;
+    background-color: #6699FF;
+}
+.caseta2{
+    flex: 70%;
+    background-color: #6699FF;
+}
+.caseta3{
+    flex: 1;
+    background-color:#6699FF;
+}
+.caseta4{
+    flex: 1;
+    background-color: #6633FF;
+}
+@media (min-width: 200px) {
+   
+.caseta5{
+    flex: 50%;
+    order: 3;
+    background-color: #6699FF;
+    color: #6699FF
+}
+.caseta6{
+    flex: 25%;
+    order: 2;
+    background-color: #6699FF;
+    color: #6699FF
+}
+.caseta7{
+    flex: 25%;
+    order: 1;
+    background-color: #6699FF;
+}
+}

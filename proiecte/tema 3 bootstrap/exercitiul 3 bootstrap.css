@@ -1,0 +1,39 @@
+div{
+    border-radius: 2em;
+    margin-bottom: 10px;
+
+
+   
+}
+
+
+.caseta1{
+    height:140px;
+    background-color:blue;
+    text-align: center;
+    line-height: 140px;
+
+
+}
+
+.caseta2{
+    height:310px;
+    background-color:red;
+    text-align: center;
+    line-height: 310px;
+   
+
+}
+.caseta3{
+    height:140px;
+    background-color: red;
+    text-align: center;
+    line-height: 140px;
+
+}
+.caseta4{
+    height:100px;
+    background-color:red;
+    text-align: center;
+    line-height: 100px;
+}

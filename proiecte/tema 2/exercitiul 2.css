@@ -1,0 +1,75 @@
+.table1{
+display: table;
+vertical-align: middle;
+font-size:40px;
+
+}
+.table-cell1{
+    display: table-cell;
+    vertical-align: middle;
+}
+.table2{
+display: table;
+vertical-align: middle;
+
+}
+.table-cell2{
+    display: table-cell;
+    vertical-align: middle;
+}
+.table-cell3{
+    display: table-cell;
+    vertical-align: middle;
+}
+.table-cell4{
+    display: table-cell;
+    vertical-align: middle;
+}
+.casetaC{
+    background-color: #660099;
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 1em;
+    color: white; 
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+        }
+.casetaD{
+    background-color: #660099;
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 1em;
+    color: white; 
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+        }
+.casetaA{
+    background-color: red;
+    width: 320px;
+    height: 150px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 1em;
+    color: white; 
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+        }
+.casetaB{
+    background-color: red;
+    width: 250px;
+    height: 320px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 1em;
+    color: white; 
+    text-align: center;
+    vertical-align: middle;
+    line-height: 320px;
+        }

@@ -1,0 +1,51 @@
+
+
+.caseta1{
+    height:70px;
+    background-color:#00FFFF;
+    text-align: center;
+    line-height: 70px;
+
+}
+
+.caseta2{
+    height:70px;
+    background-color:#00FFFF;
+    padding: 0px;
+    line-height: 70px;
+}
+.caseta3{
+    height:70px;
+    background-color: #00FFFF;
+    line-height: 70px;
+}
+.caseta4{
+    height:150px;
+    background-color:#48D1CC;
+    line-height: 150px;
+        text-align: center;
+}
+.caseta5{
+    height:70px;
+    background-color:#00FFFF;
+    line-height: 70px;
+}
+.caseta6{
+    height:70px;
+    background-color:#00FFFF;
+    line-height: 70px;
+}
+.caseta7{
+    height:70px;
+    background-color:#00FFFF;
+    line-height: 70px;
+}
+
+.padding{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+
+}

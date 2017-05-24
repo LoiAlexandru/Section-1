@@ -1,0 +1,41 @@
+@media (min-width: 768px) {
+ 
+   .forma1{
+    display: flex; 
+}
+.forma2{
+    display: flex;
+    }
+.forma3{
+display: flex;
+}
+}
+
+.forma1 div{
+    border: 1px;
+    padding: 1%;
+}
+.forma2 div{
+    border: 1p;
+    padding: 1%
+}
+.forma3 div{
+    border: 1px;
+    padding: 1%;
+}
+.caseta1{
+flex: 1;
+background-color: red;
+}
+.caseta2{
+flex: 1;
+background-color: blue;
+}
+.caseta3{
+flex: 1;
+background-color: #669900;
+}
+.caseta4{
+flex: 1;
+background-color: yellow;
+}

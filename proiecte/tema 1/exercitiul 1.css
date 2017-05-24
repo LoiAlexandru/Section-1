@@ -1,0 +1,55 @@
+.table {
+    display: table;
+    font-size:50px;
+    
+    }
+
+.table-cell{
+    display: table-cell;
+    vertical-align:middle;
+
+}
+.table-cell2{
+        display: table-cell;
+        vertical-align: middle;
+
+            }
+    
+    
+
+
+.caseta1{
+    background-color: #660099;
+    width: 250px;
+    height: 150px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 1em;
+    color: white; 
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+        }
+
+.caseta2{   
+    background-color: red;
+    width: 250px;
+    height: 150px;
+    border-radius: 1em;
+    color: white; 
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+
+        }
+
+.caseta3{
+    background-color: red;
+    width: 250px;
+    height: 320px;
+    border-radius:1em;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 320px;
+        }

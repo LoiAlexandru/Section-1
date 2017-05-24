@@ -1,0 +1,22 @@
+
+.caseta1{
+    height:100px;
+    background-color:red;
+}
+
+.caseta2{
+    height:300px;
+    background-color:blue;
+}
+.caseta3{
+    height:300px;
+    background-color: yellow;
+}
+.caseta4{
+    height:100px;
+    background-color:green;
+}
+.no-padding{
+    padding-right: 0px;
+    padding-left: 0px;
+}
